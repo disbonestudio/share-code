@@ -76,4 +76,4 @@ client.on('messageCreate', async (message) => {
 
 
 // Log in the bot
-client.login("MTMwMTIxMzk5ODUwMjY0MTY2NA.Gujtdq.C0ybfW39czgSuGVDjPKKgAzPqsUXYJrDr3GZl4"); // Use environment variable for your token
+client.login("token"); // Use environment variable for your token
